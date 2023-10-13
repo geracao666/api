@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Gal Costa",
+    "cover": "/images/artists/gal-costa/cover.jpg",
+    "discography": [
+      {
+        "type": "album",
+        "name": "Gal Costa e Caetano Veloso - Domingo (1967)",
+        "artwork": "/images/artists/gal-costa/artworks/gal-costa-domingo-1967.jpg",
+        "url": "https://drive.google.com/file/d/16iVpdKH2-zZ9fGj9zYFda6SXCOefSwcq/view?usp=sharing",
+        "tracks": [
+          "Coração vagabundo",
+          "Onde eu nasci passa um rio",
+          "Avarandado",
+          "Um dia",
+          "Domingo",
+          "Nenhuma dor",
+          "Candeias",
+          "Remelexo",
+          "Minha senhora",
+          "Quem me dera",
+          "Maria Joana",
+          "Zabelê"
+        ]
+      }
+    ]
+  }
+]

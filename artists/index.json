@@ -22,6 +22,43 @@
           "Maria Joana",
           "Zabelê"
         ]
+      },
+      {
+        "type": "album",
+        "name": "Gal Costa (1968)",
+        "artwork": "/images/artists/gal-costa/artworks/gal-costa-1968.jpg",
+        "url": "https://drive.google.com/file/d/1AeW9cs1jEYaErSWhRK7FCI45H-Bf8FWm/view?usp=sharing",
+        "tracks": [
+          "Não identificado",
+          "Sebastiana",
+          "Lost in the paradise",
+          "Namorinho de portão",
+          "Saudosismo",
+          "Se você pensa",
+          "Vou recomeçar",
+          "Divino, maravilhoso",
+          "Que pena (Ele já não gosta mais de mim)",
+          "Baby",
+          "A coisa mais linda que existe",
+          "Deus é o amor"
+        ]
+      },
+      {
+        "type": "album",
+        "name": "Gal Costa - Gal (1969)",
+        "artwork": "/images/artists/gal-costa/artworks/gal-1969.jpg",
+        "url": "https://drive.google.com/file/d/1dU9HFYs7z3D0TksQRIMPjW-85VdTA1ej/view?usp=sharing",
+        "tracks": [
+          "Cinema Olympia",
+          "Tuareg",
+          "Cultura e Civilização",
+          "País Tropical",
+          "Meu Nome é Gal",
+          "Com medo, Com Pedro",
+          "The Empty Boat",
+          "Objeto Sim, Objeto Não",
+          "Pulsars e Quasars"
+        ]
       }
     ]
   }

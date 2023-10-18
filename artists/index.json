@@ -1,5 +1,32 @@
 [
   {
+    "name": "Amenra",
+    "cover": "/images/artists/amenra/cover.jpg",
+    "tags": [
+      "* Bélgica",
+      "# Doom Metal",
+      "# Post-Hardcore",
+      "# Post-Metal",
+      "# Sludge",
+      "Amenra"
+    ],
+    "discography": [
+      {
+        "type": "album",
+        "name": "Amenra - Mass I (2003)",
+        "artwork": "/images/artists/amenra/artworks/mass-i.jpg",
+        "tracks": [
+          "Change Is Always",
+          "Dance Of The Dead",
+          "Discrimen",
+          "Hibernate",
+          "Silent Pause",
+          "Ode To A Broken Doll"
+        ]
+      }
+    ]
+  },
+  {
     "name": "Gal Costa",
     "cover": "/images/artists/gal-costa/cover.jpg",
     "tags": [
